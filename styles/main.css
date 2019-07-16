@@ -1,0 +1,42 @@
+/*
+Global
+*/
+body{
+    /*Fuentes*/
+    font-family: Arial;
+    font-size: 13px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Verdana;
+}
+
+h1{
+    font-size: 24px
+}
+h2{
+    font-size: 20px
+}
+h3 {
+    font-size: 16px
+}
+
+/*
+Header
+*/
+header{
+    background-color: brown
+}
+header a{
+    color: white
+}
+header .logo{
+    font-size: 20px
+}
